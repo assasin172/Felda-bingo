@@ -50,8 +50,8 @@ const items = [
 
 	[25,"Felicia combi",""],
 	[26,"Felicia Triumf",""],
-	[27,"Felicia Magic","(aneb rušení ministerstev)"],
-	[28,"Felicia 1.3",""],
+	[27,"Felicia Magic",""],
+	[28,"Hej Jožo",""],
 	[29,"Měnil startér",""],
 	[30,"Netrefil na akci napoprvé",""],
 ];
