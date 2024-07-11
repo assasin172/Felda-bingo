@@ -1,0 +1,29 @@
+.card-body {
+	min-height: 3rem;
+}
+
+.card:hover {
+	background-color: rgb(39, 43, 48);
+}
+
+label {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+	flex-direction: column;
+	cursor: pointer;
+}
+
+hr {
+	margin: auto;
+}
+
+@media (max-width: 991.98px) {
+	h5, .h5 {font-size: 1rem;}
+}
+
+@media (min-width: 576px) {
+	.card-body {
+		min-height: 7rem;
+	}
+}
